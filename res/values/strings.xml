@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">StringMatching</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="button1">calculate</string>
+    <string name="str1">String 1</string>
+    <string name="str2">String 2</string>
+
+</resources>
